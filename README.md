@@ -20,10 +20,6 @@ I'm a Software Engineering student currently on my 4th year at [University of Mu
 
 ![Profile views](https://gpvc.arturio.dev/Qkessler) 
 
-[<img alt="Qkessler | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Qkessler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Qkessler | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
 ---
 
 
@@ -46,11 +42,11 @@ I'm a Software Engineering student currently on my 4th year at [University of Mu
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qkessler&show_icons=true&hide_border=true)
 
 ---
+### Social links
 
-
-### You can find at
-
-<br/>
+[<img alt="Qkessler | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Qkessler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Qkessler | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 
 ---
