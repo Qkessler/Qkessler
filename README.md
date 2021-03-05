@@ -2,6 +2,8 @@
   <img src="https://github.com/Qkessler/Qkessler/blob/main/src/readme-image.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+Hey! I'm Enrique Kessler Martínez!
+
 I'm a Software Engineering student currently on my 4th year at [University of Murcia (UMU)](https://um.es). I have been working on personal projects for a long time, with some of them being uploaded to this Github profile!:smile:
  
  🔭 I got an amazing opportunity for an internship at a big company! Will anounce soon!
