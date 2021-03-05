@@ -10,13 +10,13 @@ I'm a Software Engineering student currently on my 4th year at [University of Mu
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> and <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
  
+ 💬 Ask me about anything! I'm more than happy to help!
+ Feel free to contact me at [enrique.kesslerm@gmail.com](mailto:enrique.kesslerm@gmail.com).
+
  👯 I’m looking for collaborators on my [CloudQuestions](https://github.com/Qkessler/CloudQuestions) project, currenty working on a mobile app!
 <p align="center">
   <img src="https://github.com/Qkessler/CloudQuestions/blob/master/pics/index_page.png" width="100%" title="CloudQuestions index page" alt="CloudQuestions index page">
 </p> 
- 
- 💬 Ask me about anything! I'm more than happy to help!
- Feel free to contact me at [enrique.kesslerm@gmail.com](mailto:enrique.kesslerm@gmail.com).
 
 ![Profile views](https://gpvc.arturio.dev/Qkessler) 
 
