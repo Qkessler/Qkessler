@@ -13,9 +13,12 @@ I'm a Software Engineering student currently on my 4th year at [University of Mu
  💬 Contact information: 
  
 :bird:[@quique_kessler](https://twitter.com/quique_kessler)
+
 :link:[/enrique-kessler-martinez](https://www.linkedin.com/in/enrique-kessler-martinez/)
+
 :email: [enrique.kesslerm@gmail.com](mailto:enrique.kesslerm@gmail.com).
-:globe-with-meridians: [enriquekesslerm.com](https://enriquekesslerm.com).
+
+🌐 [enriquekesslerm.com](https://enriquekesslerm.com).
 
 ![Profile views](https://gpvc.arturio.dev/Qkessler) 
 
