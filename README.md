@@ -13,16 +13,17 @@ I'm a Software Engineering student currently on my 4th year at [University of Mu
  💬 Contact information: 
  
 <div style="background-color: white;">
- [<img alt="Qkessler | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] @quique_kessler
+ [:bird:][twitter] [@quique_kessler](https://twitter.com/quique_kessler)
  </div>
  <div>
- [<img alt="Qkessler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] /enrique-kessler-martinez
+ [:link:][linkedin] [/enrique-kessler-martinez](https://www.linkedin.com/in/enrique-kessler-martinez/)
 </div>
 <div>
-[<img alt="Qkessler | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email] [enrique.kesslerm@gmail.com](mailto:enrique.kesslerm@gmail.com).
+[:email:][email] [enrique.kesslerm@gmail.com](mailto:enrique.kesslerm@gmail.com).
 </div>
-
----
+<div>
+[:spider-web:][website] [enriquekesslerm.com](https://enriquekesslerm.com).
+</div>
 
 ![Profile views](https://gpvc.arturio.dev/Qkessler) 
 
@@ -31,3 +32,4 @@ I'm a Software Engineering student currently on my 4th year at [University of Mu
 [twitter]: https://twitter.com/quique_kessler
 [linkedin]: https://www.linkedin.com/in/enrique-kessler-martinez/
 [email]: mailto:enrique.kesslerm@gmail.com
+[website]: https://enriquekesslerm.com
