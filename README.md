@@ -4,9 +4,9 @@
 
 ## Hey! I'm Enrique Kessler Martínez!
 
-I'm a Software Engineering student currently on my 4th year at [University of Murcia (UMU)](https://um.es). I have been working on personal projects for a long time, with some of them being uploaded to this Github profile!:smile:
+I'm a Software Engineering student at [University of Murcia (UMU)](https://um.es). I have been working on personal projects for a long time, with some of them being uploaded to this Github profile!:smile:
  
- 🔭 Next summer I will be working as an SDE Intern @ Amazon!
+ 🔭 This summer I have been working as a SDE Intern @ Amazon!
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  
