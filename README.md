@@ -1,29 +1,9 @@
-<p align="center">
-  <img src="https://github.com/Qkessler/Qkessler/blob/main/src/readme-image.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+Hi there! I'm Quique, and I'm currently working as an SDE at Amazon. On my free time, I like reading, hiking, plants, cats and Open Source Software. Here's my web: [**enriquekesslerm.com**](https://enriquekesslerm.com), where you'll find posts about any of those.
 
-## Hey! I'm Enrique Kessler Martínez!
+Below you'll find a featured repo, which is one of my 10th last updated. Below the repo card, you'll find an ordered list of my repositories and their languages, which shows the languages that I work with the most, and the ones I have been working with as of late, for my personal projects.
 
-I'm a Software Development Engineer at Amazon. I studied Software Engineering student at [University of Murcia (UMU)](https://um.es). I have been working on personal projects for a long time, with some of them being uploaded to this Github profile!:smile:
- 
-
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
- 
-### 💬 Contact information: 
- 
-##### :bird: [@quique_kessler](https://twitter.com/quique_kessler)
-
-##### :link: [/enrique-kessler-martinez](https://www.linkedin.com/in/enrique-kessler-martinez/)
-
-##### :email: [enrique.kesslerm@gmail.com](mailto:enrique.kesslerm@gmail.com).
-
-##### 🌐 [enriquekesslerm.com](https://enriquekesslerm.com).
-
-![Profile views](https://gpvc.arturio.dev/Qkessler) 
-
----
-
-[twitter]: https://twitter.com/quique_kessler
-[linkedin]: https://www.linkedin.com/in/enrique-kessler-martinez/
-[email]: mailto:enrique.kesslerm@gmail.com
-[website]: https://enriquekesslerm.com
+<div align="center">
+    <a href="https://github.com/Qkessler/consult-project-extra">
+        <img src="src/repo-card.svg" width="400" height="400" alt="Repo card which links to the Repo itself, in Github.">
+    </a>
+</div>
