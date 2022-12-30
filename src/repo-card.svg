@@ -6,6 +6,7 @@
         .card {
 			width: 300px;
 			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+			background: white;
 			border-radius: 5px;
 			overflow: hidden;
 			margin: 20px;
@@ -42,14 +43,14 @@
         }
       </style>
       <div class="card">
-        <a href="https://github.com/Qkessler/consult-project-extra" class="card-link">
+        <a href="https://github.com/Qkessler/enriquekesslerm.com" class="card-link">
           <div class="card-header">
-            <h3 class="card-title">consult-project-extra</h3>
+            <h3 class="card-title">enriquekesslerm.com</h3>
             <a href="" target="_blank">
               <img src="" alt="Language logo" class="card-logo" />
             </a>
           </div>
-          <p class="card-description">Consult extension for project.el</p>
+          <p class="card-description">Personal web page created with Gatsby and org-mode.</p>
         </a>
       </div>
     </div>
