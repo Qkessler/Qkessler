@@ -10,6 +10,6 @@ Below you'll find a featured repo, which is one of my 10th last updated. Below t
 
 | Rust | Go |
 |------|----|
-| This is a test | This is a super long test to make sure it's not bad |
+| This is a test                       | This is a super long test to make sure it's not bad |
 | This is another test | More tests here, short now |
 | More testing | |
