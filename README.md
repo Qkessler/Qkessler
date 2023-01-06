@@ -4,7 +4,7 @@ Below you'll find a featured repo, which is one of my 10th last updated. Below t
 
 <div align="center">
     <a href="https://github.com/Qkessler/consult-projectile">
-        <img src="src/repo-card.svg" width="400" height="400" alt="Repo card which links to the Repo itself, in Github.">
+        <img src="src/repo-card.svg" alt="Repo card which links to the Repo itself, in Github.">
     </a>
 </div>
 
