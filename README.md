@@ -15,7 +15,6 @@ Below you'll find a featured repo, which is one of my 10th last updated. Below t
 | [Qkessler/PapsGMP](https://github.com/Qkessler/PapsGMP) |  [Qkessler/dyncomp.go](https://github.com/Qkessler/dyncomp.go)  |
 | [Qkessler/qmk_firmware](https://github.com/Qkessler/qmk_firmware) |  [Qkessler/Qkessler-README](https://github.com/Qkessler/Qkessler-README)  |
 |  Emacs Lisp  |  Rust  |
-| :--: | :--: |
 | [Qkessler/emacs-theme-gruvbox](https://github.com/Qkessler/emacs-theme-gruvbox) |  [Qkessler/dyncomp](https://github.com/Qkessler/dyncomp)  |
 | [Qkessler/consult-project-extra](https://github.com/Qkessler/consult-project-extra) |  [Qkessler/santander-ledger](https://github.com/Qkessler/santander-ledger)  |
 | [Qkessler/qk-emacs](https://github.com/Qkessler/qk-emacs) |  [Qkessler/layout_switcher](https://github.com/Qkessler/layout_switcher)  |
@@ -25,13 +24,11 @@ Below you'll find a featured repo, which is one of my 10th last updated. Below t
 | [Qkessler/emacs-wttrin](https://github.com/Qkessler/emacs-wttrin) |  |
 | [Qkessler/emmet-mode](https://github.com/Qkessler/emmet-mode) |  |
 |  JavaScript  |  Java  |
-| :--: | :--: |
 | [Qkessler/enriquekesslerm.com](https://github.com/Qkessler/enriquekesslerm.com) |  [Qkessler/AppMusic](https://github.com/Qkessler/AppMusic)  |
 | [Qkessler/100daysofWeb-files](https://github.com/Qkessler/100daysofWeb-files) |  [Qkessler/ChatProtocol](https://github.com/Qkessler/ChatProtocol)  |
 | [Qkessler/100DaysOfGatsby](https://github.com/Qkessler/100DaysOfGatsby) |  |
 | [Qkessler/Learning_typeScript](https://github.com/Qkessler/Learning_typeScript) |  |
 |  Python  |  TeX  |
-| :--: | :--: |
 | [Qkessler/CloudQuestions](https://github.com/Qkessler/CloudQuestions) |  [Qkessler/cv](https://github.com/Qkessler/cv)  |
 | [Qkessler/rotating_background](https://github.com/Qkessler/rotating_background) |  |
 | [Qkessler/WatchlistScript](https://github.com/Qkessler/WatchlistScript) |  |
