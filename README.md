@@ -1,29 +1,56 @@
-<p align="center">
-  <img src="https://github.com/Qkessler/Qkessler/blob/main/src/readme-image.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+Hi there! I'm Quique, and I'm currently working as an SDE at Amazon. On my free time, I like reading, hiking, plants, cats and Open Source Software. Here's my web: [**enriquekesslerm.com**](https://enriquekesslerm.com), where you'll find posts about any of those.
 
-## Hey! I'm Enrique Kessler Martínez!
+Below you'll find a featured repo, which is one of my 10th last updated. Below the repo card, you'll find an ordered list of my repositories and their languages, which shows the languages that I work with the most, and the ones I have been working with as of late, for my personal projects.
 
-I'm a Software Development Engineer at Amazon. I studied Software Engineering student at [University of Murcia (UMU)](https://um.es). I have been working on personal projects for a long time, with some of them being uploaded to this Github profile!:smile:
- 
+<div align="center">
+    <a href="https://github.com/Qkessler/consult-projectile">
+        <img src="src/repo-card.svg" width="400" height="400" alt="Repo card which links to the Repo itself, in Github.">
+    </a>
+</div>
 
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
- 
-### 💬 Contact information: 
- 
-##### :bird: [@quique_kessler](https://twitter.com/quique_kessler)
+|  C  |  Go  |
+| :--: | :--: |
 
-##### :link: [/enrique-kessler-martinez](https://www.linkedin.com/in/enrique-kessler-martinez/)
+| [Qkessler/PapsGMP](https://github.com/Qkessler/PapsGMP) |  [Qkessler/dyncomp.go](https://github.com/Qkessler/dyncomp.go)  |
 
-##### :email: [enrique.kesslerm@gmail.com](mailto:enrique.kesslerm@gmail.com).
+| [Qkessler/qmk_firmware](https://github.com/Qkessler/qmk_firmware) |  [Qkessler/Qkessler-README](https://github.com/Qkessler/Qkessler-README)  |
+|  Emacs Lisp  |  Rust  |
+| :--: | :--: |
 
-##### 🌐 [enriquekesslerm.com](https://enriquekesslerm.com).
+| [Qkessler/emacs-theme-gruvbox](https://github.com/Qkessler/emacs-theme-gruvbox) |  [Qkessler/dyncomp](https://github.com/Qkessler/dyncomp)  |
 
-![Profile views](https://gpvc.arturio.dev/Qkessler) 
+| [Qkessler/consult-project-extra](https://github.com/Qkessler/consult-project-extra) |  [Qkessler/santander-ledger](https://github.com/Qkessler/santander-ledger)  |
 
----
+| [Qkessler/qk-emacs](https://github.com/Qkessler/qk-emacs) |  [Qkessler/layout_switcher](https://github.com/Qkessler/layout_switcher)  |
 
-[twitter]: https://twitter.com/quique_kessler
-[linkedin]: https://www.linkedin.com/in/enrique-kessler-martinez/
-[email]: mailto:enrique.kesslerm@gmail.com
-[website]: https://enriquekesslerm.com
+| [Qkessler/consult-projectile](https://github.com/Qkessler/consult-projectile) |  |
+
+| [Qkessler/dot_files](https://github.com/Qkessler/dot_files) |  |
+
+| [Qkessler/emacs-calfw](https://github.com/Qkessler/emacs-calfw) |  |
+
+| [Qkessler/emacs-wttrin](https://github.com/Qkessler/emacs-wttrin) |  |
+
+| [Qkessler/emmet-mode](https://github.com/Qkessler/emmet-mode) |  |
+|  JavaScript  |  Java  |
+| :--: | :--: |
+
+| [Qkessler/enriquekesslerm.com](https://github.com/Qkessler/enriquekesslerm.com) |  [Qkessler/AppMusic](https://github.com/Qkessler/AppMusic)  |
+
+| [Qkessler/100daysofWeb-files](https://github.com/Qkessler/100daysofWeb-files) |  [Qkessler/ChatProtocol](https://github.com/Qkessler/ChatProtocol)  |
+
+| [Qkessler/100DaysOfGatsby](https://github.com/Qkessler/100DaysOfGatsby) |  |
+
+| [Qkessler/Learning_typeScript](https://github.com/Qkessler/Learning_typeScript) |  |
+|  Python  |  TeX  |
+| :--: | :--: |
+
+| [Qkessler/CloudQuestions](https://github.com/Qkessler/CloudQuestions) |  [Qkessler/cv](https://github.com/Qkessler/cv)  |
+
+| [Qkessler/rotating_background](https://github.com/Qkessler/rotating_background) |  |
+
+| [Qkessler/WatchlistScript](https://github.com/Qkessler/WatchlistScript) |  |
+
+| [Qkessler/100daysofPython-files](https://github.com/Qkessler/100daysofPython-files) |  |
+
+| [Qkessler/hacktoberfest_status](https://github.com/Qkessler/hacktoberfest_status) |  |
