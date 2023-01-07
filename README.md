@@ -9,36 +9,37 @@ Hi there! I'm Quique, and I'm currently working as a SDE at Amazon. I'm part of 
 Below you'll find a featured repo, which is **one of my 10th last updated**. Below the repo card, you'll find an ordered list of my repositories and their languages, which shows the languages that I work with the most, and the ones I have been working with as of late, for my personal projects.
 
 <div align="center" style="background: red">
-    <a href="https://github.com/Qkessler/PapsGMP">
+    <a href="https://github.com/Qkessler/santander-ledger">
         <img src="src/repo-card.svg" width="400" height="400" alt="Repo card which links to the Repo itself, in Github.">
     </a>
 </div>
 
 <div align='center'>
 
-|  **C**  |  **Go**  |
+|  **Go**  |  **Rust**  |
 | :--: | :--: |
-|  [Qkessler/PapsGMP](https://github.com/Qkessler/PapsGMP) |   [Qkessler/dyncomp.go](https://github.com/Qkessler/dyncomp.go)  |
-| :small_orange_diamond: [Qkessler/qmk_firmware](https://github.com/Qkessler/qmk_firmware) |   [Qkessler/Qkessler-README](https://github.com/Qkessler/Qkessler-README)  |
-|  **Emacs Lisp**  |  **Rust**  |
-| :small_orange_diamond: [Qkessler/emacs-theme-gruvbox](https://github.com/Qkessler/emacs-theme-gruvbox) |   [Qkessler/dyncomp](https://github.com/Qkessler/dyncomp)  |
-|  [Qkessler/consult-project-extra](https://github.com/Qkessler/consult-project-extra) |   [Qkessler/santander-ledger](https://github.com/Qkessler/santander-ledger)  |
-|  [Qkessler/qk-emacs](https://github.com/Qkessler/qk-emacs) |   [Qkessler/layout_switcher](https://github.com/Qkessler/layout_switcher)  |
-|  [Qkessler/consult-projectile](https://github.com/Qkessler/consult-projectile) |   |
-|  [Qkessler/dot_files](https://github.com/Qkessler/dot_files) |   |
+|  [Qkessler/Qkessler-README](https://github.com/Qkessler/Qkessler-README) |   [Qkessler/dyncomp](https://github.com/Qkessler/dyncomp)  |
+|  [Qkessler/dyncomp.go](https://github.com/Qkessler/dyncomp.go) |   [Qkessler/santander-ledger](https://github.com/Qkessler/santander-ledger)  |
+|  [Qkessler/layout_switcher](https://github.com/Qkessler/layout_switcher) |   |
+|  **Emacs Lisp**  |  **C**  |
+|  [Qkessler/qk-emacs](https://github.com/Qkessler/qk-emacs) |   [Qkessler/PapsGMP](https://github.com/Qkessler/PapsGMP)  |
+|  [Qkessler/consult-project-extra](https://github.com/Qkessler/consult-project-extra) | :small_orange_diamond:  [Qkessler/qmk_firmware](https://github.com/Qkessler/qmk_firmware)  |
 | :small_orange_diamond: [Qkessler/emacs-calfw](https://github.com/Qkessler/emacs-calfw) |   |
+|  [Qkessler/consult-projectile](https://github.com/Qkessler/consult-projectile) |   |
 | :small_orange_diamond: [Qkessler/emacs-wttrin](https://github.com/Qkessler/emacs-wttrin) |   |
+| :small_orange_diamond: [Qkessler/emacs-theme-gruvbox](https://github.com/Qkessler/emacs-theme-gruvbox) |   |
 | :small_orange_diamond: [Qkessler/emmet-mode](https://github.com/Qkessler/emmet-mode) |   |
-|  **JavaScript**  |  **Java**  |
-|  [Qkessler/enriquekesslerm.com](https://github.com/Qkessler/enriquekesslerm.com) |   [Qkessler/AppMusic](https://github.com/Qkessler/AppMusic)  |
-|  [Qkessler/100daysofWeb-files](https://github.com/Qkessler/100daysofWeb-files) |   [Qkessler/ChatProtocol](https://github.com/Qkessler/ChatProtocol)  |
+|  [Qkessler/dot_files](https://github.com/Qkessler/dot_files) |   |
+|  **TeX**  |  **JavaScript**  |
+|  [Qkessler/cv](https://github.com/Qkessler/cv) |   [Qkessler/enriquekesslerm.com](https://github.com/Qkessler/enriquekesslerm.com)  |
 |  [Qkessler/100DaysOfGatsby](https://github.com/Qkessler/100DaysOfGatsby) |   |
+|  [Qkessler/100daysofWeb-files](https://github.com/Qkessler/100daysofWeb-files) |   |
 |  [Qkessler/Learning_typeScript](https://github.com/Qkessler/Learning_typeScript) |   |
-|  **Python**  |  **TeX**  |
-|  [Qkessler/CloudQuestions](https://github.com/Qkessler/CloudQuestions) |   [Qkessler/cv](https://github.com/Qkessler/cv)  |
-|  [Qkessler/rotating_background](https://github.com/Qkessler/rotating_background) |   |
+|  **Java**  |  **Python**  |
+|  [Qkessler/AppMusic](https://github.com/Qkessler/AppMusic) |   [Qkessler/CloudQuestions](https://github.com/Qkessler/CloudQuestions)  |
+|  [Qkessler/ChatProtocol](https://github.com/Qkessler/ChatProtocol) |   [Qkessler/rotating_background](https://github.com/Qkessler/rotating_background)  |
+|  [Qkessler/hacktoberfest_status](https://github.com/Qkessler/hacktoberfest_status) |   |
 |  [Qkessler/WatchlistScript](https://github.com/Qkessler/WatchlistScript) |   |
 |  [Qkessler/100daysofPython-files](https://github.com/Qkessler/100daysofPython-files) |   |
-|  [Qkessler/hacktoberfest_status](https://github.com/Qkessler/hacktoberfest_status) |   |
 
 </div>
