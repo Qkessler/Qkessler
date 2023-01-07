@@ -1,5 +1,5 @@
 
-<svg fill="none" viewBox="0 0 350 200" width="350" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 300 300" width="300" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -43,14 +43,14 @@
         }
       </style>
       <div class="card">
-        <a href="https://github.com/Qkessler/qk-emacs" class="card-link">
+        <a href="https://github.com/Qkessler/consult-project-extra" class="card-link">
           <div class="card-header">
-            <h3 class="card-title">qk-emacs</h3>
+            <h3 class="card-title">consult-project-extra</h3>
             <a href="" target="_blank">
               <img src="" alt="Language logo" class="card-logo" />
             </a>
           </div>
-          <p class="card-description">Emacs configuration with sane defaults and a modular approach</p>
+          <p class="card-description">Consult extension for project.el</p>
         </a>
       </div>
     </div>
