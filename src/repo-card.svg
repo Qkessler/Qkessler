@@ -1,5 +1,5 @@
 
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 200 200" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -43,14 +43,14 @@
         }
       </style>
       <div class="card">
-        <a href="https://github.com/Qkessler/layout_switcher" class="card-link">
+        <a href="https://github.com/Qkessler/Qkessler-README" class="card-link">
           <div class="card-header">
-            <h3 class="card-title">layout_switcher</h3>
+            <h3 class="card-title">Qkessler-README</h3>
             <a href="" target="_blank">
               <img src="" alt="Language logo" class="card-logo" />
             </a>
           </div>
-          <p class="card-description">Change the layout depending on whether a USB keyboard is plugged in or not</p>
+          <p class="card-description">Tool to create the README file of my Github page dynamically.</p>
         </a>
       </div>
     </div>

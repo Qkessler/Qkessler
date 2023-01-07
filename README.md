@@ -9,8 +9,8 @@ Hi there! I'm Quique, and I'm currently working as a SDE at Amazon. I'm part of 
 Below you'll find a featured repo, which is **one of my 10th last updated**. Below the repo card, you'll find an ordered list of my repositories and their languages, which shows the languages that I work with the most, and the ones I have been working with as of late, for my personal projects.
 
 <div align="center" style="background: red">
-    <a href="https://github.com/Qkessler/layout_switcher">
-        <img src="src/repo-card.svg" width="400" height="400" alt="Repo card which links to the Repo itself, in Github.">
+    <a href="https://github.com/Qkessler/Qkessler-README">
+        <img src="src/repo-card.svg" width="200" height="200" alt="Repo card which links to the Repo itself, in Github.">
     </a>
 </div>
 
