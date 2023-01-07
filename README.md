@@ -10,7 +10,7 @@ Below you'll find a featured repo, which is **one of my 10th last updated**. Bel
 
 <div align="center">
     <a href="https://github.com/Qkessler/qk-emacs">
-        <img src="src/repo-card.svg" width="350" height="250" alt="Repo card which links to the Repo itself, in Github.">
+        <img src="src/repo-card.svg" width="400" height="250" alt="Repo card which links to the Repo itself, in Github.">
     </a>
 </div>
 
