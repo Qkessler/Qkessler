@@ -43,14 +43,14 @@
         }
       </style>
       <div class="card">
-        <a href="https://github.com/Qkessler/layout_switcher" class="card-link">
+        <a href="https://github.com/Qkessler/PapsGMP" class="card-link">
           <div class="card-header">
-            <h3 class="card-title">layout_switcher</h3>
+            <h3 class="card-title">PapsGMP</h3>
             <a href="" target="_blank">
               <img src="" alt="Language logo" class="card-logo" />
             </a>
           </div>
-          <p class="card-description">Change the layout depending on whether a USB keyboard is plugged in or not</p>
+          <p class="card-description">GMP transcription from C implementation to Rust</p>
         </a>
       </div>
     </div>
