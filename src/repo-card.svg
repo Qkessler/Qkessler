@@ -43,14 +43,14 @@
         }
       </style>
       <div class="card">
-        <a href="https://github.com/Qkessler/dyncomp" class="card-link">
+        <a href="https://github.com/Qkessler/qk-emacs" class="card-link">
           <div class="card-header">
-            <h3 class="card-title">dyncomp</h3>
+            <h3 class="card-title">qk-emacs</h3>
             <a href="" target="_blank">
               <img src="" alt="Language logo" class="card-logo" />
             </a>
           </div>
-          <p class="card-description">dyncomp is a CLI tool to compile your projects dynamically, by running the same command, through configuration files.</p>
+          <p class="card-description">Emacs configuration with sane defaults and a modular approach</p>
         </a>
       </div>
     </div>
