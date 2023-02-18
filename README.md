@@ -9,7 +9,7 @@ Hi there! I'm Quique, and I'm currently working as a SDE at Amazon. I'm part of 
 Below you'll find a featured repo, which is **one of my 10th last updated**. Below the repo card, you'll find an ordered list of my repositories and their languages, which shows the languages that I work with the most, and the ones I have been working with as of late, for my personal projects.
 
 <div align="center">
-    <a href="https://github.com/Qkessler/santander-ledger">
+    <a href="https://github.com/Qkessler/Qkessler-README">
         <img src="src/repo-card.svg" alt="Repo card which links to the Repo itself, in Github.">
     </a>
 </div>
@@ -26,7 +26,7 @@ Below you'll find a featured repo, which is **one of my 10th last updated**. Bel
 |  [Qkessler/100daysofPython-files](https://github.com/Qkessler/100daysofPython-files) |   |
 |  **Rust**  |  **Emacs Lisp**  |
 |  [Qkessler/dyncomp](https://github.com/Qkessler/dyncomp) |   [Qkessler/qk-emacs](https://github.com/Qkessler/qk-emacs)  |
-|  [Qkessler/santander-ledger](https://github.com/Qkessler/santander-ledger) |   [Qkessler/consult-project-extra](https://github.com/Qkessler/consult-project-extra)  |
+|  [Qkessler/betl](https://github.com/Qkessler/betl) |   [Qkessler/consult-project-extra](https://github.com/Qkessler/consult-project-extra)  |
 |  [Qkessler/layout_switcher](https://github.com/Qkessler/layout_switcher) | :small_orange_diamond:  [Qkessler/emacs-calfw](https://github.com/Qkessler/emacs-calfw)  |
 |  **C**  |  **TeX**  |
 |  [Qkessler/PapsGMP](https://github.com/Qkessler/PapsGMP) |   [Qkessler/cv](https://github.com/Qkessler/cv)  |
