@@ -9,7 +9,7 @@ Hi there! I'm Quique, and I'm currently working as a SDE at Amazon. I'm part of 
 Below you'll find a featured repo, which is **one of my 10th last updated**. Below the repo card, you'll find an ordered list of my repositories and their languages, which shows the languages that I work with the most, and the ones I have been working with as of late, for my personal projects.
 
 <div align="center">
-    <a href="https://github.com/Qkessler/Qkessler-README">
+    <a href="https://github.com/Qkessler/dyncomp.go">
         <img src="src/repo-card.svg" alt="Repo card which links to the Repo itself, in Github.">
     </a>
 </div>
