@@ -31,12 +31,12 @@
 	  }
 	  </style>
       <div class="github-card">
-		<h3>dyncomp.go</h3>
-		<p>Dynamic compilation changing depending on the directory dyncomp was invoked, up to stop directories, like HOME.</p>
+		<h3>consult-project-extra</h3>
+		<p>Consult extension for project.el</p>
         <span class="github-card__meta">
-<span class="github-card__language-icon" style="color: #00ADD8;">●</span> Go
+<span class="github-card__language-icon" style="color: #c065db;">●</span> Emacs Lisp
         </span>
-		<span class="github-card__meta">⭐ 1</span>
+		<span class="github-card__meta">⭐ 42</span>
       </div>
 	</div>
   </foreignObject>
