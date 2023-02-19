@@ -31,12 +31,12 @@
 	  }
 	  </style>
       <div class="github-card">
-		<h3>betl</h3>
-		<p>pull the transactions from a santander account and create ledger transactions</p>
+		<h3>dyncomp.go</h3>
+		<p>Dynamic compilation changing depending on the directory dyncomp was invoked, up to stop directories, like HOME.</p>
         <span class="github-card__meta">
-<span class="github-card__language-icon" style="color: #dea584;">●</span> Rust
+<span class="github-card__language-icon" style="color: #00ADD8;">●</span> Go
         </span>
-		<span class="github-card__meta">⭐ 0</span>
+		<span class="github-card__meta">⭐ 1</span>
       </div>
 	</div>
   </foreignObject>
