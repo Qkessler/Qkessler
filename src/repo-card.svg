@@ -2,7 +2,7 @@
 <svg fill="none" viewBox="0 0 350 200" width="350" height="200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-	<style>
+		<style>
 		* {
 		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 		}
@@ -26,17 +26,18 @@
 			font-size: 15px;
 		}
 
-		.github-card__meta {
-		margin-right: 20px;
-		}
-	</style>
+      .github-card__meta {
+	    margin-right: 20px;
+	  }
+	  </style>
       <div class="github-card">
-		<h3>betl</h3>
-		<p>pull the transactions from a santander account and create ledger transactions</p>
+		<h3>qk-emacs</h3>
+		<p>Emacs configuration with sane defaults and a modular approach</p>
         <span class="github-card__meta">
-<span class="github-card__language-icon" style="color: #dea584;">●</span> Rust
+<span class="github-card__language-icon" style="color: #c065db;">●</span> Emacs Lisp
         </span>
-		<span class="github-card__meta">⭐ 0</span>
+		<span class="github-card__meta">⭐ 3</span>
       </div>
+	</div>
   </foreignObject>
 </svg>
