@@ -31,12 +31,12 @@
 	  }
 	  </style>
       <div class="github-card">
-		<h3>qk-emacs</h3>
-		<p>Emacs configuration with sane defaults and a modular approach</p>
+		<h3>layout_switcher</h3>
+		<p>Change the layout depending on whether a USB keyboard is plugged in or not</p>
         <span class="github-card__meta">
-<span class="github-card__language-icon" style="color: #c065db;">●</span> Emacs Lisp
+<span class="github-card__language-icon" style="color: #dea584;">●</span> Rust
         </span>
-		<span class="github-card__meta">⭐ 3</span>
+		<span class="github-card__meta">⭐ 0</span>
       </div>
 	</div>
   </foreignObject>
