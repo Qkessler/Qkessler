@@ -31,12 +31,12 @@
 	  }
 	  </style>
       <div class="github-card">
-		<h3>Qkessler-README</h3>
-		<p>Tool to create the README file of my Github page dynamically.</p>
+		<h3>consult-project-extra</h3>
+		<p>Consult extension for project.el</p>
         <span class="github-card__meta">
-<span class="github-card__language-icon" style="color: #00ADD8;">●</span> Go
+<span class="github-card__language-icon" style="color: #c065db;">●</span> Emacs Lisp
         </span>
-		<span class="github-card__meta">⭐ 0</span>
+		<span class="github-card__meta">⭐ 42</span>
       </div>
 	</div>
   </foreignObject>
