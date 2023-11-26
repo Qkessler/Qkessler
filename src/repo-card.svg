@@ -31,12 +31,12 @@
 	  }
 	  </style>
       <div class="github-card">
-		<h3>consult-project-extra</h3>
-		<p>Consult extension for project.el</p>
+		<h3>dyncomp</h3>
+		<p>dyncomp is a CLI tool to compile your projects dynamically, by running the same command, through configuration files.</p>
         <span class="github-card__meta">
-<span class="github-card__language-icon" style="color: #c065db;">●</span> Emacs Lisp
+<span class="github-card__language-icon" style="color: #dea584;">●</span> Rust
         </span>
-		<span class="github-card__meta">⭐ 42</span>
+		<span class="github-card__meta">⭐ 0</span>
       </div>
 	</div>
   </foreignObject>
