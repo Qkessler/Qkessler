@@ -31,10 +31,10 @@
 	  }
 	  </style>
       <div class="github-card">
-		<h3>dyncomp</h3>
-		<p>dyncomp is a CLI tool to compile your projects dynamically, by running the same command, through configuration files.</p>
+		<h3>enriquekesslerm.com</h3>
+		<p>Personal website built using the Zola Rust static site generator.</p>
         <span class="github-card__meta">
-<span class="github-card__language-icon" style="color: #dea584;">●</span> Rust
+<span class="github-card__language-icon" style="color: ;">●</span> HTML
         </span>
 		<span class="github-card__meta">⭐ 0</span>
       </div>
